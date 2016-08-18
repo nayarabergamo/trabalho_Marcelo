@@ -1,0 +1,7 @@
+C:\Users\nay\Desktop\PIM_3_LocAuto\RegistroPonto\RegistroPonto\bin\Debug\RegistroPonto.exe.config
+C:\Users\nay\Desktop\PIM_3_LocAuto\RegistroPonto\RegistroPonto\bin\Debug\RegistroPonto.exe
+C:\Users\nay\Desktop\PIM_3_LocAuto\RegistroPonto\RegistroPonto\bin\Debug\RegistroPonto.pdb
+C:\Users\nay\Desktop\PIM_3_LocAuto\RegistroPonto\RegistroPonto\bin\Debug\MySql.Data.dll
+C:\Users\nay\Desktop\PIM_3_LocAuto\RegistroPonto\RegistroPonto\obj\Debug\RegistroPonto.csprojResolveAssemblyReference.cache
+C:\Users\nay\Desktop\PIM_3_LocAuto\RegistroPonto\RegistroPonto\obj\Debug\RegistroPonto.exe
+C:\Users\nay\Desktop\PIM_3_LocAuto\RegistroPonto\RegistroPonto\obj\Debug\RegistroPonto.pdb
